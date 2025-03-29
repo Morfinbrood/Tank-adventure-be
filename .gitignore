@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+*.log
+coverage/
+
+.env
+.env.local
+.env.*.local
+
+prisma/generated/
+
+.DS_Store
+Thumbs.db
