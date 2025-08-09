@@ -12,3 +12,6 @@ prisma/generated/
 
 .DS_Store
 Thumbs.db
+
+# CDK output
+cdk.out/
